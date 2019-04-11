@@ -25,11 +25,17 @@ The following is the template for the final README.md file:
 
 ## Getting Started
 
-{Instructions to quickly get started using the project: pre-requisites, packages to install, sample code, etc.}
+{Instructions to quickly get started using the project: pre-requisites, packages
+to install, sample code, etc.}
 
 ## Features
 
 {More details/listing of features of the project}
+
+## Changelog
+
+Please consult the [CHANGELOG](CHANGELOG.md) for more information about version
+history.
 
 ## License
 
@@ -38,7 +44,8 @@ This project is licensed under the Apache 2.0 license - see the
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on the process for contributing to this project.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on the process for
+contributing to this project.
 
 Be mindful of our [Code of Conduct](CODE_OF_CONDUCT.md).
 
