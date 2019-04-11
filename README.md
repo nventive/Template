@@ -9,7 +9,7 @@ project.
 2. Delete the `.git` folder
 3. Git init this repository and start working on your project!
 4. Prior to submitting your request for publication, make sure to review the
-   Open Source guidelines for submissions.
+   [Open Source guidelines for publications](https://nventive.visualstudio.com/Internal/_wiki/wikis/Internal_wiki?wikiVersion=GBwikiMaster&pagePath=%2FOpen%20Source%2FPublishing&pageId=7120).
 
 The following is the template for the final README.md file:
 
