@@ -3,15 +3,15 @@ GitHub Issue: #
      All PRs should be associated with an issue -->
 
 ## Proposed Changes
-<!-- Please un-comment one ore more that apply to this PR -->
+<!-- Please check one or more that apply to this PR. -->
 
-<!-- - Bug fix -->
-<!-- - Feature -->
-<!-- - Code style update (formatting) -->
-<!-- - Refactoring (no functional changes, no api changes) -->
-<!-- - Build or CI related changes -->
-<!-- - Documentation content changes -->
-<!-- - Other, please describe: -->
+ - [ ] Bug fix
+ - [ ] Feature
+ - [ ] Code style update (formatting)
+ - [ ] Refactoring (no functional changes, no api changes)
+ - [ ] Build or CI related changes
+ - [ ] Documentation content changes
+ - [ ] Other, please describe:
 
 
 ## What is the current behavior?
@@ -25,17 +25,14 @@ GitHub Issue: #
 
 ## Checklist
 
-Please check if your PR fulfills the following requirements:
+Please check that your PR fulfills the following requirements:
 
-- [ ] Documentation has been added/updated
-- [ ] Automated Unit / Integration tests for the changes have been added/updated
-- [ ] Contains **NO** breaking changes
-- [ ] Updated the Changelog
-- [ ] Associated with an issue
+- [ ] Documentation has been added/updated.
+- [ ] Automated tests for the changes have been added/updated.
+- [ ] Updated [BREAKING_CHANGES.md](../BREAKING_CHANGES.md) (if you introduced a breaking change).
 
 <!-- If this PR contains a breaking change, please describe the impact
      and migration path for existing applications below. -->
-
 
 ## Other information
 <!-- Please provide any additional information if necessary -->
