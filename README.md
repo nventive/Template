@@ -13,7 +13,6 @@ project.
 
 ## Features (to keep as-is, configure or remove)
 - [Mergify](https://mergify.io/) is configured. You can edit or remove [.mergify.yml](/.mergify.yml).
-- [allcontributors](https://allcontributors.org/) is configured. It helps adding contributors to the README.
 - [dependabot](https://dependabot.com/) is configured. This bot will open pull requests automatically to update nuget dependencies. This one could be annoying, feel free to remove the [.dependabot](/.dependabot) folder.
 
 The following is the template for the final README.md file:
@@ -37,10 +36,10 @@ to install, sample code, etc.}
 
 {More details/listing of features of the project}
 
-## Changelog
+## Breaking Changes
 
-Please consult the [CHANGELOG](CHANGELOG.md) for more information about version
-history.
+Please consult [BREAKING_CHANGES.md](BREAKING_CHANGES.md) for more information about version
+history and compatibility.
 
 ## License
 
@@ -53,8 +52,3 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on the process for
 contributing to this project.
 
 Be mindful of our [Code of Conduct](CODE_OF_CONDUCT.md).
-
-## Contributors
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
