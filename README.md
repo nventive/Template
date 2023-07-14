@@ -13,7 +13,6 @@ project.
 
 ## Features (to keep as-is, configure or remove)
 - [Mergify](https://mergify.io/) is configured. You can edit or remove [.mergify.yml](/.mergify.yml).
-- [dependabot](https://dependabot.com/) is configured. This bot will open pull requests automatically to update nuget dependencies. This one could be annoying, feel free to remove the [.dependabot](/.dependabot) folder.
 
 The following is the template for the final README.md file:
 
